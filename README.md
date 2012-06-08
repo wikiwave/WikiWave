@@ -1,4 +1,4 @@
 WikiWave
 ========
 
-An easy-to-use wiki targeted at developers
+Just getting started.  Come back in a bit.
